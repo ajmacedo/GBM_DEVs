@@ -1,0 +1,26 @@
+.Salvar pwd=> Ok!!!
+.Arrumar a macro que atualiza vínculos=> Ok!!!
+
+.Incluir a descrição da Z2_CO; 
+.Draft da mudança de String (40% done);
+.Draft exportação=>Ok!!!
+.Decidir se usar 
+.Teste somente trocando o Database;
+.O melhor é:
+   Com a Gerador aberta:
+	1) Puxar e desvincular;
+	2) Daí salva;
+	3) Por segurança um indirect database => ME DÁ UM FÔLEGO IMEDIATO.
+		=> Gerador exporta => Incluo no template e aponto no _whichDB
+
+.Macro exibe percentuais/não exibe percentuais;
+
+
+.MailTo (fica como melhoria futura, o rename agora já deve bastar);
+
+
+.Usar o Git Hub;
+
+
+
+
